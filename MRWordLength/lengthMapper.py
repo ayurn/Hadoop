@@ -1,11 +1,10 @@
 '''
-**********************************************************************************
 @Author: Ayur Ninawe
 @Date: 2021-07-31
 @Last Modified by: 15:11:25 Ayur Ninawe
 @Last Modified time: 2021-07-31
 @Title : Mapper code for word length program
-**********************************************************************************
+
 '''
 
 # import sys because we need to read and write data to STDIN and STDOUT

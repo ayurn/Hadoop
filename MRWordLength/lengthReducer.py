@@ -1,11 +1,9 @@
 '''
-**********************************************************************************
 @Author: Ayur Ninawe
 @Date: 2021-07-31
 @Last Modified by: 15:11:25 Ayur Ninawe
 @Last Modified time: 2021-07-31
 @Title : Reducer code for word length program
-**********************************************************************************
 '''
 
 from operator import itemgetter
